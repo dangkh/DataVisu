@@ -1,11 +1,10 @@
-## Project 1 [Data Visualization] 
-
 ---
 title: "Proposal"
 author: "Truong Tuan Vu, Nguyen Minh Tuong, Kieu Hai Dang"
 date: "`r Sys.Date()`"
 output: html_document
 ---
+# Project 1 [Data Visualization] 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
