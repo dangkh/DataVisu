@@ -1,6 +1,7 @@
+## Project 1 [Data Visualization] 
 ---
-title: "Proposal"
-author: "Truong Tuan Vu, Nguyen Minh Tuong, Kieu Hai Dang"
+Title: "Proposal"
+Author: "Truong Tuan Vu, Nguyen Minh Tuong, Kieu Hai Dang"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -8,7 +9,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+## Dataset Description
 Our group’s chosen dataset is Valentine's Day Consumer Data. The data is sourced from the National Retail Federation (NRF) in the United States. The NRF conducts annual surveys to gather information on how consumers plan to celebrate Valentine's Day.
 
 The data has been collected through consumer surveys administered by the NRF over the past decade, from 2010 to 2022.
