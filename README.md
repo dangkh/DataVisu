@@ -26,11 +26,12 @@ The dimension of:
 - gifts_age: 6 rows x 9 columns
 - gifts_gender: 2 rows x 9 columns
 
+## Why we choose this dataset
 Our group chooses this dataset is because this month has International Women Day which is quite similar to Valentine Day.
 
 With this dataset, we can know the trend of choosing gifts in the world, suitable for all ages, from which we can choose suitable gifts to give to our beloved women.
 
-**Here are two questions that can be used to draw insights:**
+## **Here are two questions that can be used to draw insights:**
 
 1. How does the spending on different gift categories (e.g., Candy, Flowers, Jewelry, Greeting Cards, Evening Out, Clothing, and Gift Cards) vary across different age groups and between genders?
 
@@ -40,7 +41,7 @@ This question involves analyzing the relationship between three variables: age g
 
 This question involves examining the trends in multiple variables over time: overall spending on celebrating, per-person spending, and spending on various gift categories.
 
-**Plan for answering each of them:**
+## **Plan for answering each of them:**
 
 **Question 1**: How does the spending on different gift categories (e.g., Candy, Flowers, Jewelry, Greeting Cards, Evening Out, Clothing, and Gift Cards) vary across different age groups and between genders?
 
