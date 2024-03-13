@@ -1,7 +1,8 @@
 ## Project 1 [Data Visualization] 
+
 ---
-Title: "Proposal"
-Author: "Truong Tuan Vu, Nguyen Minh Tuong, Kieu Hai Dang"
+title: "Proposal"
+author: "Truong Tuan Vu, Nguyen Minh Tuong, Kieu Hai Dang"
 date: "`r Sys.Date()`"
 output: html_document
 ---
